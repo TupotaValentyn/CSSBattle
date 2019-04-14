@@ -1,0 +1,26 @@
+{
+  "name": "css-batlle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html -p 3500"
+  },
+  "author": "Valik Tupota",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-hot-loader": "^4.8.3",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-router-link": "^2.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "keywords": [],
+  "description": ""
+}
